@@ -1,2 +1,3 @@
 # natada.stream
-landing page
+
+basic landing page
